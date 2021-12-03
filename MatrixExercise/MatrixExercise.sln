@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Diagonal Difference", "MatrixExercise\1. Diagonal Difference.csproj", "{22E782D0-5875-4C8E-AC70-B30DE80CB5DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Squares in Matrix", "2. Squares in Matrix\2. Squares in Matrix.csproj", "{35987066-B31E-4EA7-83B4-02D3F52A8F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{B62029D3-D597-440C-88CA-6EA0F05B3A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{42A9F8BF-0019-49FA-9FC4-8B3D893DD3F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake Moves", "Snake Moves\Snake Moves.csproj", "{DAC219A2-CFAB-4BA9-9A9A-41244C9695D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E782D0-5875-4C8E-AC70-B30DE80CB5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E782D0-5875-4C8E-AC70-B30DE80CB5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E782D0-5875-4C8E-AC70-B30DE80CB5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E782D0-5875-4C8E-AC70-B30DE80CB5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35987066-B31E-4EA7-83B4-02D3F52A8F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35987066-B31E-4EA7-83B4-02D3F52A8F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35987066-B31E-4EA7-83B4-02D3F52A8F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35987066-B31E-4EA7-83B4-02D3F52A8F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62029D3-D597-440C-88CA-6EA0F05B3A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62029D3-D597-440C-88CA-6EA0F05B3A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62029D3-D597-440C-88CA-6EA0F05B3A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62029D3-D597-440C-88CA-6EA0F05B3A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A9F8BF-0019-49FA-9FC4-8B3D893DD3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A9F8BF-0019-49FA-9FC4-8B3D893DD3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A9F8BF-0019-49FA-9FC4-8B3D893DD3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A9F8BF-0019-49FA-9FC4-8B3D893DD3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC219A2-CFAB-4BA9-9A9A-41244C9695D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC219A2-CFAB-4BA9-9A9A-41244C9695D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC219A2-CFAB-4BA9-9A9A-41244C9695D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC219A2-CFAB-4BA9-9A9A-41244C9695D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047B4705-F02A-4FDA-B0D9-95B5BCB53CC9}
+	EndGlobalSection
+EndGlobal

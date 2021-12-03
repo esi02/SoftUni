@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodFinder", "RegularExam-Advanced\FoodFinder.csproj", "{DB80CB83-4A68-467F-A9EE-3E6D19CBDB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawnWars", "PawnWars\PawnWars.csproj", "{BB1915E3-9D33-43A0-B257-27E17451D17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB80CB83-4A68-467F-A9EE-3E6D19CBDB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB80CB83-4A68-467F-A9EE-3E6D19CBDB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB80CB83-4A68-467F-A9EE-3E6D19CBDB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB80CB83-4A68-467F-A9EE-3E6D19CBDB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1915E3-9D33-43A0-B257-27E17451D17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1915E3-9D33-43A0-B257-27E17451D17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1915E3-9D33-43A0-B257-27E17451D17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1915E3-9D33-43A0-B257-27E17451D17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54067877-5E4B-4B59-ADC1-ED33C365342E}
+	EndGlobalSection
+EndGlobal

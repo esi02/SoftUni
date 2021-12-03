@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operations", "PolymorphismLab\Operations.csproj", "{1AAE32A0-417F-46CD-8185-553A2DC9D8BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "Animals\Animals.csproj", "{C6980026-6304-4F1C-ACF4-E831BF69DFCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{AD8ED44C-95B2-4AFD-9847-34465963B8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AAE32A0-417F-46CD-8185-553A2DC9D8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAE32A0-417F-46CD-8185-553A2DC9D8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAE32A0-417F-46CD-8185-553A2DC9D8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAE32A0-417F-46CD-8185-553A2DC9D8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6980026-6304-4F1C-ACF4-E831BF69DFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6980026-6304-4F1C-ACF4-E831BF69DFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6980026-6304-4F1C-ACF4-E831BF69DFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6980026-6304-4F1C-ACF4-E831BF69DFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8ED44C-95B2-4AFD-9847-34465963B8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8ED44C-95B2-4AFD-9847-34465963B8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8ED44C-95B2-4AFD-9847-34465963B8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8ED44C-95B2-4AFD-9847-34465963B8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {657C4CE0-0BCE-4E16-BE95-9DCF984653BB}
+	EndGlobalSection
+EndGlobal
