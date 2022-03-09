@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\bin\Debug\net5.0\DigitsLettersandOther.exe
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\bin\Debug\net5.0\DigitsLettersandOther.deps.json
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\bin\Debug\net5.0\DigitsLettersandOther.runtimeconfig.json
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\bin\Debug\net5.0\DigitsLettersandOther.runtimeconfig.dev.json
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\bin\Debug\net5.0\DigitsLettersandOther.dll
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\bin\Debug\net5.0\ref\DigitsLettersandOther.dll
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\bin\Debug\net5.0\DigitsLettersandOther.pdb
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\obj\Debug\net5.0\DigitsLettersandOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\obj\Debug\net5.0\DigitsLettersandOther.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\obj\Debug\net5.0\DigitsLettersandOther.AssemblyInfo.cs
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\obj\Debug\net5.0\DigitsLettersandOther.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\obj\Debug\net5.0\DigitsLettersandOther.dll
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\obj\Debug\net5.0\ref\DigitsLettersandOther.dll
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\obj\Debug\net5.0\DigitsLettersandOther.pdb
+C:\Users\esi\source\repos\TextProcessingLab\DigitsLettersandOther\obj\Debug\net5.0\DigitsLettersandOther.genruntimeconfig.cache

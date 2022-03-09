@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\bin\Debug\netcoreapp3.1\FoodFinder.exe
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\bin\Debug\netcoreapp3.1\FoodFinder.deps.json
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\bin\Debug\netcoreapp3.1\FoodFinder.runtimeconfig.json
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\bin\Debug\netcoreapp3.1\FoodFinder.runtimeconfig.dev.json
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\bin\Debug\netcoreapp3.1\FoodFinder.dll
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\bin\Debug\netcoreapp3.1\FoodFinder.pdb
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\obj\Debug\netcoreapp3.1\FoodFinder.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\obj\Debug\netcoreapp3.1\FoodFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\obj\Debug\netcoreapp3.1\FoodFinder.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\obj\Debug\netcoreapp3.1\FoodFinder.AssemblyInfo.cs
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\obj\Debug\netcoreapp3.1\FoodFinder.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\obj\Debug\netcoreapp3.1\FoodFinder.dll
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\obj\Debug\netcoreapp3.1\FoodFinder.pdb
+C:\Users\esi\source\repos\RegularExam-Advanced\RegularExam-Advanced\obj\Debug\netcoreapp3.1\FoodFinder.genruntimeconfig.cache

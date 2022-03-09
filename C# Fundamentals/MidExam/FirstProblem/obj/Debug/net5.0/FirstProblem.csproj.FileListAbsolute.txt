@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MidExam\FirstProblem\bin\Debug\net5.0\FirstProblem.exe
+C:\Users\esi\source\repos\MidExam\FirstProblem\bin\Debug\net5.0\FirstProblem.deps.json
+C:\Users\esi\source\repos\MidExam\FirstProblem\bin\Debug\net5.0\FirstProblem.runtimeconfig.json
+C:\Users\esi\source\repos\MidExam\FirstProblem\bin\Debug\net5.0\FirstProblem.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MidExam\FirstProblem\bin\Debug\net5.0\FirstProblem.dll
+C:\Users\esi\source\repos\MidExam\FirstProblem\bin\Debug\net5.0\ref\FirstProblem.dll
+C:\Users\esi\source\repos\MidExam\FirstProblem\bin\Debug\net5.0\FirstProblem.pdb
+C:\Users\esi\source\repos\MidExam\FirstProblem\obj\Debug\net5.0\FirstProblem.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MidExam\FirstProblem\obj\Debug\net5.0\FirstProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MidExam\FirstProblem\obj\Debug\net5.0\FirstProblem.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MidExam\FirstProblem\obj\Debug\net5.0\FirstProblem.AssemblyInfo.cs
+C:\Users\esi\source\repos\MidExam\FirstProblem\obj\Debug\net5.0\FirstProblem.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MidExam\FirstProblem\obj\Debug\net5.0\FirstProblem.dll
+C:\Users\esi\source\repos\MidExam\FirstProblem\obj\Debug\net5.0\ref\FirstProblem.dll
+C:\Users\esi\source\repos\MidExam\FirstProblem\obj\Debug\net5.0\FirstProblem.pdb
+C:\Users\esi\source\repos\MidExam\FirstProblem\obj\Debug\net5.0\FirstProblem.genruntimeconfig.cache

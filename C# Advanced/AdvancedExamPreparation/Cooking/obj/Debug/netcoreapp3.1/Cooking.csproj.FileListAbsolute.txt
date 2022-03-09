@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\bin\Debug\netcoreapp3.1\Cooking.exe
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\bin\Debug\netcoreapp3.1\Cooking.deps.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.dev.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\bin\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\bin\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\obj\Debug\netcoreapp3.1\Cooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfo.cs
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\obj\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\obj\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\esi\source\repos\AdvancedExamPreparation\Cooking\obj\Debug\netcoreapp3.1\Cooking.genruntimeconfig.cache

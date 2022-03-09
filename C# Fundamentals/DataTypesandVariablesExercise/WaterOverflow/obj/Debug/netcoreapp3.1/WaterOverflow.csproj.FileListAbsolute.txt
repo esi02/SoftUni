@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.exe
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.deps.json
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.runtimeconfig.json
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.runtimeconfig.dev.json
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.dll
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.pdb
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.AssemblyInfo.cs
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.dll
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.pdb
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.genruntimeconfig.cache
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.csproj.AssemblyReference.cache

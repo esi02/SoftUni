@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\bin\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.exe
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\bin\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.deps.json
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\bin\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.runtimeconfig.json
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\bin\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.runtimeconfig.dev.json
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\bin\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.dll
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\bin\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.pdb
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\obj\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\obj\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.AssemblyInfo.cs
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\obj\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\obj\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.dll
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\obj\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.pdb
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\NumbersDividedby3Without Reminder\obj\Debug\netcoreapp3.1\NumbersDividedby3Without Reminder.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\bin\Debug\netcoreapp3.1\NumbersEndingIn7.exe
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\bin\Debug\netcoreapp3.1\NumbersEndingIn7.deps.json
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.json
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\bin\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\bin\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\obj\Debug\netcoreapp3.1\NumbersEndingIn7.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\obj\Debug\netcoreapp3.1\NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\obj\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\obj\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+C:\Users\esi\source\repos\ForLoopExcercise\ForLoopExcercise\obj\Debug\netcoreapp3.1\NumbersEndingIn7.genruntimeconfig.cache

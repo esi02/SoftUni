@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\GenericsExercise\Tuple\bin\Debug\netcoreapp3.1\GenericBox.exe
+C:\Users\esi\source\repos\GenericsExercise\Tuple\bin\Debug\netcoreapp3.1\GenericBox.deps.json
+C:\Users\esi\source\repos\GenericsExercise\Tuple\bin\Debug\netcoreapp3.1\GenericBox.runtimeconfig.json
+C:\Users\esi\source\repos\GenericsExercise\Tuple\bin\Debug\netcoreapp3.1\GenericBox.runtimeconfig.dev.json
+C:\Users\esi\source\repos\GenericsExercise\Tuple\bin\Debug\netcoreapp3.1\GenericBox.dll
+C:\Users\esi\source\repos\GenericsExercise\Tuple\bin\Debug\netcoreapp3.1\GenericBox.pdb
+C:\Users\esi\source\repos\GenericsExercise\Tuple\obj\Debug\netcoreapp3.1\GenericBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\GenericsExercise\Tuple\obj\Debug\netcoreapp3.1\GenericBox.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\GenericsExercise\Tuple\obj\Debug\netcoreapp3.1\GenericBox.AssemblyInfo.cs
+C:\Users\esi\source\repos\GenericsExercise\Tuple\obj\Debug\netcoreapp3.1\GenericBox.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\GenericsExercise\Tuple\obj\Debug\netcoreapp3.1\GenericBox.dll
+C:\Users\esi\source\repos\GenericsExercise\Tuple\obj\Debug\netcoreapp3.1\GenericBox.pdb
+C:\Users\esi\source\repos\GenericsExercise\Tuple\obj\Debug\netcoreapp3.1\GenericBox.genruntimeconfig.cache
+C:\Users\esi\source\repos\GenericsExercise\Tuple\obj\Debug\netcoreapp3.1\GenericBox.csproj.AssemblyReference.cache

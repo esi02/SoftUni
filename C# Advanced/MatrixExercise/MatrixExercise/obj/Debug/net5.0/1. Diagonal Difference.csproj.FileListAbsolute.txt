@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\bin\Debug\net5.0\1. Diagonal Difference.exe
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\bin\Debug\net5.0\1. Diagonal Difference.deps.json
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.json
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\bin\Debug\net5.0\1. Diagonal Difference.dll
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\bin\Debug\net5.0\ref\1. Diagonal Difference.dll
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\bin\Debug\net5.0\1. Diagonal Difference.pdb
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\obj\Debug\net5.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\obj\Debug\net5.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfo.cs
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\obj\Debug\net5.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\obj\Debug\net5.0\1. Diagonal Difference.dll
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\obj\Debug\net5.0\ref\1. Diagonal Difference.dll
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\obj\Debug\net5.0\1. Diagonal Difference.pdb
+C:\Users\esi\source\repos\MatrixExercise\MatrixExercise\obj\Debug\net5.0\1. Diagonal Difference.genruntimeconfig.cache

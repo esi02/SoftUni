@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.exe
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.deps.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.dev.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.dll
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfo.cs
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.dll
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\esi\source\repos\AdvancedExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.genruntimeconfig.cache

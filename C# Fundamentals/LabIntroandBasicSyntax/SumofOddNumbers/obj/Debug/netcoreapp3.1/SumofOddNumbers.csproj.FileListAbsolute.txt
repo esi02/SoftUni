@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.exe
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.deps.json
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.runtimeconfig.json
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.runtimeconfig.dev.json
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.dll
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\bin\Debug\netcoreapp3.1\SumofOddNumbers.pdb
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.AssemblyInfo.cs
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.dll
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.pdb
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\SumofOddNumbers\obj\Debug\netcoreapp3.1\SumofOddNumbers.genruntimeconfig.cache

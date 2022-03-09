@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.exe
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.deps.json
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.runtimeconfig.json
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.runtimeconfig.dev.json
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.dll
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.pdb
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.AssemblyInfo.cs
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.dll
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.pdb
+C:\Users\esi\source\repos\LabDataTypesAndVariables\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.genruntimeconfig.cache

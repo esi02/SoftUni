@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\bin\Debug\net5.0\Periodic Table.exe
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\bin\Debug\net5.0\Periodic Table.deps.json
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\bin\Debug\net5.0\Periodic Table.runtimeconfig.json
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\bin\Debug\net5.0\Periodic Table.runtimeconfig.dev.json
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\bin\Debug\net5.0\Periodic Table.dll
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\bin\Debug\net5.0\ref\Periodic Table.dll
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\bin\Debug\net5.0\Periodic Table.pdb
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\obj\Debug\net5.0\Periodic Table.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\obj\Debug\net5.0\Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\obj\Debug\net5.0\Periodic Table.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\obj\Debug\net5.0\Periodic Table.AssemblyInfo.cs
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\obj\Debug\net5.0\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\obj\Debug\net5.0\Periodic Table.dll
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\obj\Debug\net5.0\ref\Periodic Table.dll
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\obj\Debug\net5.0\Periodic Table.pdb
+C:\Users\esi\source\repos\SetsAndDictionariesAdvancedExercise\Periodic Table\obj\Debug\net5.0\Periodic Table.genruntimeconfig.cache

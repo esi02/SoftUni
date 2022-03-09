@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.exe
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.deps.json
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.runtimeconfig.json
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.dll
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.pdb
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.AssemblyInfo.cs
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.dll
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.pdb
+C:\Users\esi\source\repos\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.genruntimeconfig.cache

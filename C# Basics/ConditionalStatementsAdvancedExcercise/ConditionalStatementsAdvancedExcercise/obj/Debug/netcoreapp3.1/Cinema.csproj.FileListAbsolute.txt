@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\bin\Debug\netcoreapp3.1\Cinema.exe
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\bin\Debug\netcoreapp3.1\Cinema.deps.json
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\bin\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\bin\Debug\netcoreapp3.1\Cinema.pdb
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\obj\Debug\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\obj\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\obj\Debug\netcoreapp3.1\Cinema.pdb
+C:\Users\esi\source\repos\ConditionalStatementsAdvancedExcercise\ConditionalStatementsAdvancedExcercise\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache

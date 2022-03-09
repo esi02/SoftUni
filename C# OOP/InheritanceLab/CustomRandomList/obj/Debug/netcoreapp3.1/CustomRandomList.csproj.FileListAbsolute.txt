@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\esi\source\repos\InheritanceLab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache

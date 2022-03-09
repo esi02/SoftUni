@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\bin\Debug\net5.0\ThePianist.exe
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\bin\Debug\net5.0\ThePianist.deps.json
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\bin\Debug\net5.0\ThePianist.runtimeconfig.json
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\bin\Debug\net5.0\ThePianist.runtimeconfig.dev.json
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\bin\Debug\net5.0\ThePianist.dll
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\bin\Debug\net5.0\ref\ThePianist.dll
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\bin\Debug\net5.0\ThePianist.pdb
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\obj\Debug\net5.0\ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\obj\Debug\net5.0\ThePianist.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\obj\Debug\net5.0\ThePianist.AssemblyInfo.cs
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\obj\Debug\net5.0\ThePianist.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\obj\Debug\net5.0\ThePianist.dll
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\obj\Debug\net5.0\ref\ThePianist.dll
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\obj\Debug\net5.0\ThePianist.pdb
+C:\Users\esi\source\repos\FinalExamPrep\ThePianist\obj\Debug\net5.0\ThePianist.genruntimeconfig.cache

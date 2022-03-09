@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\bin\Debug\net5.0\AppendArrays.exe
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\bin\Debug\net5.0\AppendArrays.deps.json
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.json
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\bin\Debug\net5.0\AppendArrays.dll
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\bin\Debug\net5.0\ref\AppendArrays.dll
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\bin\Debug\net5.0\AppendArrays.pdb
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\obj\Debug\net5.0\AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\obj\Debug\net5.0\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\obj\Debug\net5.0\AppendArrays.dll
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\obj\Debug\net5.0\ref\AppendArrays.dll
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\obj\Debug\net5.0\AppendArrays.pdb
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\obj\Debug\net5.0\AppendArrays.genruntimeconfig.cache
+C:\Users\esi\source\repos\ListsExcercise\AppendArrays\obj\Debug\net5.0\AppendArrays.csproj.AssemblyReference.cache

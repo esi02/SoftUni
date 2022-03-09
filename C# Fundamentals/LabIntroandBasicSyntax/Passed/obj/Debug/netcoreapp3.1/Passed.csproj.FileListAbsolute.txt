@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.exe
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.deps.json
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.json
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.dev.json
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.dll
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.pdb
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfo.cs
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.dll
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.pdb
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.genruntimeconfig.cache

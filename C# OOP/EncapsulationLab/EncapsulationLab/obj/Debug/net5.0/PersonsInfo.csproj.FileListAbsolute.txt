@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\bin\Debug\net5.0\PersonsInfo.exe
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\bin\Debug\net5.0\PersonsInfo.deps.json
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\bin\Debug\net5.0\PersonsInfo.runtimeconfig.json
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\bin\Debug\net5.0\PersonsInfo.runtimeconfig.dev.json
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\bin\Debug\net5.0\PersonsInfo.dll
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\bin\Debug\net5.0\ref\PersonsInfo.dll
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\bin\Debug\net5.0\PersonsInfo.pdb
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\obj\Debug\net5.0\PersonsInfo.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\obj\Debug\net5.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\obj\Debug\net5.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\obj\Debug\net5.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\obj\Debug\net5.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\obj\Debug\net5.0\PersonsInfo.dll
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\obj\Debug\net5.0\ref\PersonsInfo.dll
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\obj\Debug\net5.0\PersonsInfo.pdb
+C:\Users\esi\source\repos\EncapsulationLab\EncapsulationLab\obj\Debug\net5.0\PersonsInfo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\bin\Debug\net5.0\CaesarCipher.exe
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\bin\Debug\net5.0\CaesarCipher.deps.json
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\bin\Debug\net5.0\CaesarCipher.runtimeconfig.json
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\bin\Debug\net5.0\CaesarCipher.runtimeconfig.dev.json
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\bin\Debug\net5.0\CaesarCipher.dll
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\bin\Debug\net5.0\ref\CaesarCipher.dll
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\bin\Debug\net5.0\CaesarCipher.pdb
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\obj\Debug\net5.0\CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\obj\Debug\net5.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\obj\Debug\net5.0\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\obj\Debug\net5.0\CaesarCipher.AssemblyInfo.cs
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\obj\Debug\net5.0\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\obj\Debug\net5.0\CaesarCipher.dll
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\obj\Debug\net5.0\ref\CaesarCipher.dll
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\obj\Debug\net5.0\CaesarCipher.pdb
+C:\Users\esi\source\repos\TextProcessingExcercise\CaesarCipher\obj\Debug\net5.0\CaesarCipher.genruntimeconfig.cache

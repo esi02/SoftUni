@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\obj\Debug\net5.0\TopNumber.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\obj\Debug\net5.0\TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfo.cs
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\obj\Debug\net5.0\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\bin\Debug\net5.0\TopNumber.exe
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\bin\Debug\net5.0\TopNumber.deps.json
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.json
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\bin\Debug\net5.0\TopNumber.dll
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\bin\Debug\net5.0\ref\TopNumber.dll
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\bin\Debug\net5.0\TopNumber.pdb
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\obj\Debug\net5.0\TopNumber.dll
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\obj\Debug\net5.0\ref\TopNumber.dll
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\obj\Debug\net5.0\TopNumber.pdb
+C:\Users\esi\source\repos\MethodsExcercise\TopNumber\obj\Debug\net5.0\TopNumber.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.exe
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.deps.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.runtimeconfig.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\bin\Debug\net5.0\ref\6. Reverse and Exclude.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\bin\Debug\net5.0\6. Reverse and Exclude.pdb
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\obj\Debug\net5.0\ref\6. Reverse and Exclude.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.pdb
+C:\Users\esi\source\repos\FuncProgrammingExercise\6. Reverse and Exclude\obj\Debug\net5.0\6. Reverse and Exclude.genruntimeconfig.cache

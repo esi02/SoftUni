@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.exe
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.deps.json
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.dll
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\ref\RemoveNegativesAndReverse.dll
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.pdb
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.dll
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\ref\RemoveNegativesAndReverse.dll
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.pdb
+C:\Users\esi\source\repos\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.genruntimeconfig.cache

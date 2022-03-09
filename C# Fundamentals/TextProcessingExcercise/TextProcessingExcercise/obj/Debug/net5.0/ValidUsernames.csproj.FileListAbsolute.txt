@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\bin\Debug\net5.0\ValidUsernames.exe
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\bin\Debug\net5.0\ValidUsernames.deps.json
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\bin\Debug\net5.0\ValidUsernames.runtimeconfig.json
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\bin\Debug\net5.0\ValidUsernames.runtimeconfig.dev.json
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\bin\Debug\net5.0\ValidUsernames.dll
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\bin\Debug\net5.0\ref\ValidUsernames.dll
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\bin\Debug\net5.0\ValidUsernames.pdb
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\obj\Debug\net5.0\ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\obj\Debug\net5.0\ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\obj\Debug\net5.0\ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\obj\Debug\net5.0\ValidUsernames.AssemblyInfo.cs
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\obj\Debug\net5.0\ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\obj\Debug\net5.0\ValidUsernames.dll
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\obj\Debug\net5.0\ref\ValidUsernames.dll
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\obj\Debug\net5.0\ValidUsernames.pdb
+C:\Users\esi\source\repos\TextProcessingExcercise\TextProcessingExcercise\obj\Debug\net5.0\ValidUsernames.genruntimeconfig.cache

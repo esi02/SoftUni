@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.exe
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.deps.json
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.runtimeconfig.json
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.runtimeconfig.dev.json
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.dll
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\bin\Debug\net5.0\ref\04. Add VAT.dll
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\bin\Debug\net5.0\04. Add VAT.pdb
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.AssemblyInfo.cs
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.dll
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\obj\Debug\net5.0\ref\04. Add VAT.dll
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.pdb
+C:\Users\esi\source\repos\FuncProgrammingLab\04. Add VAT\obj\Debug\net5.0\04. Add VAT.genruntimeconfig.cache

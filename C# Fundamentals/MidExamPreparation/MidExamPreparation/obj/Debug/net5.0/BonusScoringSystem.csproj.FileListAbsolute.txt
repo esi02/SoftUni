@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\net5.0\BonusScoringSystem.exe
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\net5.0\BonusScoringSystem.deps.json
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\net5.0\BonusScoringSystem.runtimeconfig.json
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\net5.0\BonusScoringSystem.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\net5.0\BonusScoringSystem.dll
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\net5.0\ref\BonusScoringSystem.dll
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\bin\Debug\net5.0\BonusScoringSystem.pdb
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\net5.0\BonusScoringSystem.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\net5.0\BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\net5.0\BonusScoringSystem.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\net5.0\BonusScoringSystem.AssemblyInfo.cs
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\net5.0\BonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\net5.0\BonusScoringSystem.dll
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\net5.0\ref\BonusScoringSystem.dll
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\net5.0\BonusScoringSystem.pdb
+C:\Users\esi\source\repos\MidExamPreparation\MidExamPreparation\obj\Debug\net5.0\BonusScoringSystem.genruntimeconfig.cache

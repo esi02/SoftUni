@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.exe
+C:\Users\esi\source\repos\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.deps.json
+C:\Users\esi\source\repos\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.json
+C:\Users\esi\source\repos\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.dll
+C:\Users\esi\source\repos\MethodsLab\Calculations\bin\Debug\net5.0\ref\Calculations.dll
+C:\Users\esi\source\repos\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.pdb
+C:\Users\esi\source\repos\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfo.cs
+C:\Users\esi\source\repos\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.dll
+C:\Users\esi\source\repos\MethodsLab\Calculations\obj\Debug\net5.0\ref\Calculations.dll
+C:\Users\esi\source\repos\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.pdb
+C:\Users\esi\source\repos\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.genruntimeconfig.cache

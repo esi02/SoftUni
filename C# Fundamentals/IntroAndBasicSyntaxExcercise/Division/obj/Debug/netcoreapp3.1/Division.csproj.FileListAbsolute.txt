@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\bin\Debug\netcoreapp3.1\Division.exe
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.json
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.dev.json
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\bin\Debug\netcoreapp3.1\Division.dll
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\bin\Debug\netcoreapp3.1\Division.pdb
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\obj\Debug\netcoreapp3.1\Division.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\obj\Debug\netcoreapp3.1\Division.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\obj\Debug\netcoreapp3.1\Division.dll
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\obj\Debug\netcoreapp3.1\Division.pdb
+C:\Users\esi\source\repos\IntroAndBasicSyntaxExcercise\Division\obj\Debug\netcoreapp3.1\Division.genruntimeconfig.cache

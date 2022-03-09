@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\bin\Debug\net5.0\OrderByAge.exe
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\bin\Debug\net5.0\OrderByAge.deps.json
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\bin\Debug\net5.0\OrderByAge.runtimeconfig.json
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\bin\Debug\net5.0\OrderByAge.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\bin\Debug\net5.0\OrderByAge.dll
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\bin\Debug\net5.0\ref\OrderByAge.dll
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\bin\Debug\net5.0\OrderByAge.pdb
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\obj\Debug\net5.0\OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\obj\Debug\net5.0\OrderByAge.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\obj\Debug\net5.0\OrderByAge.AssemblyInfo.cs
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\obj\Debug\net5.0\OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\obj\Debug\net5.0\OrderByAge.dll
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\obj\Debug\net5.0\ref\OrderByAge.dll
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\obj\Debug\net5.0\OrderByAge.pdb
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\OrderByAge\obj\Debug\net5.0\OrderByAge.genruntimeconfig.cache

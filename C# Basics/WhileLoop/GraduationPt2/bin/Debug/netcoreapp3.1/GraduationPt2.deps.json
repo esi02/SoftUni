@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GraduationPt2/1.0.0": {
+        "runtime": {
+          "GraduationPt2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraduationPt2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

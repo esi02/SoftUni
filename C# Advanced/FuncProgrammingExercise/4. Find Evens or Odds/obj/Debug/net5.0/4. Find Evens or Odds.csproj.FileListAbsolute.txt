@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.exe
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.deps.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.runtimeconfig.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\bin\Debug\net5.0\ref\4. Find Evens or Odds.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.pdb
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\obj\Debug\net5.0\ref\4. Find Evens or Odds.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.pdb
+C:\Users\esi\source\repos\FuncProgrammingExercise\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.genruntimeconfig.cache

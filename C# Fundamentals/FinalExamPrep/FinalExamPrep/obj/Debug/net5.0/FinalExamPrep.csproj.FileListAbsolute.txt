@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\net5.0\FinalExamPrep.exe
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\net5.0\FinalExamPrep.deps.json
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\net5.0\FinalExamPrep.runtimeconfig.json
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\net5.0\FinalExamPrep.runtimeconfig.dev.json
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\net5.0\FinalExamPrep.dll
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\net5.0\ref\FinalExamPrep.dll
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\bin\Debug\net5.0\FinalExamPrep.pdb
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\net5.0\FinalExamPrep.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\net5.0\FinalExamPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\net5.0\FinalExamPrep.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\net5.0\FinalExamPrep.AssemblyInfo.cs
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\net5.0\FinalExamPrep.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\net5.0\FinalExamPrep.dll
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\net5.0\ref\FinalExamPrep.dll
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\net5.0\FinalExamPrep.pdb
+C:\Users\esi\source\repos\FinalExamPrep\FinalExamPrep\obj\Debug\net5.0\FinalExamPrep.genruntimeconfig.cache

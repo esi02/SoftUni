@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.exe
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.deps.json
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.runtimeconfig.json
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.dll
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\bin\Debug\net5.0\ref\Primary Diagonal.dll
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.pdb
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.AssemblyInfo.cs
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.dll
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\obj\Debug\net5.0\ref\Primary Diagonal.dll
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.pdb
+C:\Users\esi\source\repos\MatrixLab\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.genruntimeconfig.cache

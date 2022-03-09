@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\bin\Debug\netcoreapp3.1\Rectangle2.exe
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\bin\Debug\netcoreapp3.1\Rectangle2.deps.json
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\bin\Debug\netcoreapp3.1\Rectangle2.runtimeconfig.json
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\bin\Debug\netcoreapp3.1\Rectangle2.runtimeconfig.dev.json
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\bin\Debug\netcoreapp3.1\Rectangle2.dll
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\bin\Debug\netcoreapp3.1\Rectangle2.pdb
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\obj\Debug\netcoreapp3.1\Rectangle2.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\obj\Debug\netcoreapp3.1\Rectangle2.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\obj\Debug\netcoreapp3.1\Rectangle2.AssemblyInfo.cs
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\obj\Debug\netcoreapp3.1\Rectangle2.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\obj\Debug\netcoreapp3.1\Rectangle2.dll
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\obj\Debug\netcoreapp3.1\Rectangle2.pdb
+C:\Users\esi\source\repos\DrawingFigures\Rectangle2\obj\Debug\netcoreapp3.1\Rectangle2.genruntimeconfig.cache

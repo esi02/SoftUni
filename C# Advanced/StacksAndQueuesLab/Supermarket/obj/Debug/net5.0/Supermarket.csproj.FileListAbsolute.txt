@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.exe
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.deps.json
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.runtimeconfig.json
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.runtimeconfig.dev.json
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\ref\Supermarket.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.pdb
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.AssemblyInfo.cs
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\ref\Supermarket.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.pdb
+C:\Users\esi\source\repos\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.genruntimeconfig.cache

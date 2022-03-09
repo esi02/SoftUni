@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net5.0\Singleton.exe
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net5.0\Singleton.deps.json
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net5.0\Singleton.dll
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net5.0\ref\Singleton.dll
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net5.0\Singleton.pdb
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net5.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net5.0\Singleton.dll
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net5.0\ref\Singleton.dll
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net5.0\Singleton.pdb
+C:\Users\esi\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net5.0\Singleton.genruntimeconfig.cache

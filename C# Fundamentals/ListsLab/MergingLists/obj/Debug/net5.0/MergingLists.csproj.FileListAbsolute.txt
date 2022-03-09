@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ListsLab\MergingLists\bin\Debug\net5.0\MergingLists.exe
+C:\Users\esi\source\repos\ListsLab\MergingLists\bin\Debug\net5.0\MergingLists.deps.json
+C:\Users\esi\source\repos\ListsLab\MergingLists\bin\Debug\net5.0\MergingLists.runtimeconfig.json
+C:\Users\esi\source\repos\ListsLab\MergingLists\bin\Debug\net5.0\MergingLists.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsLab\MergingLists\bin\Debug\net5.0\MergingLists.dll
+C:\Users\esi\source\repos\ListsLab\MergingLists\bin\Debug\net5.0\ref\MergingLists.dll
+C:\Users\esi\source\repos\ListsLab\MergingLists\bin\Debug\net5.0\MergingLists.pdb
+C:\Users\esi\source\repos\ListsLab\MergingLists\obj\Debug\net5.0\MergingLists.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\ListsLab\MergingLists\obj\Debug\net5.0\MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsLab\MergingLists\obj\Debug\net5.0\MergingLists.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsLab\MergingLists\obj\Debug\net5.0\MergingLists.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsLab\MergingLists\obj\Debug\net5.0\MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsLab\MergingLists\obj\Debug\net5.0\MergingLists.dll
+C:\Users\esi\source\repos\ListsLab\MergingLists\obj\Debug\net5.0\ref\MergingLists.dll
+C:\Users\esi\source\repos\ListsLab\MergingLists\obj\Debug\net5.0\MergingLists.pdb
+C:\Users\esi\source\repos\ListsLab\MergingLists\obj\Debug\net5.0\MergingLists.genruntimeconfig.cache

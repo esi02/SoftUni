@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.AssemblyInfo.cs
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.exe
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.deps.json
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.runtimeconfig.json
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.runtimeconfig.dev.json
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.dll
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.pdb
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.dll
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.pdb
+C:\Users\esi\source\repos\NestedLoopsMore\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.genruntimeconfig.cache

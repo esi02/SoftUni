@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\bin\Debug\netcoreapp3.1\Bills.exe
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\bin\Debug\netcoreapp3.1\Bills.deps.json
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\bin\Debug\netcoreapp3.1\Bills.runtimeconfig.json
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\bin\Debug\netcoreapp3.1\Bills.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\bin\Debug\netcoreapp3.1\Bills.dll
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\bin\Debug\netcoreapp3.1\Bills.pdb
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\obj\Debug\netcoreapp3.1\Bills.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\obj\Debug\netcoreapp3.1\Bills.AssemblyInfo.cs
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\obj\Debug\netcoreapp3.1\Bills.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\obj\Debug\netcoreapp3.1\Bills.dll
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\obj\Debug\netcoreapp3.1\Bills.pdb
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\obj\Debug\netcoreapp3.1\Bills.genruntimeconfig.cache
+C:\Users\esi\source\repos\ForLoopMoreExcercises\Bills\obj\Debug\netcoreapp3.1\Bills.csprojAssemblyReference.cache

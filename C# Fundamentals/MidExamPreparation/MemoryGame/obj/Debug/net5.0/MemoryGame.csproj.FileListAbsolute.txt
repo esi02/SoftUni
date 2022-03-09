@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\bin\Debug\net5.0\MemoryGame.exe
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\bin\Debug\net5.0\MemoryGame.deps.json
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\bin\Debug\net5.0\MemoryGame.runtimeconfig.json
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\bin\Debug\net5.0\MemoryGame.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\bin\Debug\net5.0\MemoryGame.dll
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\bin\Debug\net5.0\ref\MemoryGame.dll
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\bin\Debug\net5.0\MemoryGame.pdb
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\obj\Debug\net5.0\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\obj\Debug\net5.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\obj\Debug\net5.0\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\obj\Debug\net5.0\MemoryGame.AssemblyInfo.cs
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\obj\Debug\net5.0\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\obj\Debug\net5.0\MemoryGame.dll
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\obj\Debug\net5.0\ref\MemoryGame.dll
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\obj\Debug\net5.0\MemoryGame.pdb
+C:\Users\esi\source\repos\MidExamPreparation\MemoryGame\obj\Debug\net5.0\MemoryGame.genruntimeconfig.cache

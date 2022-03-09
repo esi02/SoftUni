@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.exe
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.deps.json
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.runtimeconfig.json
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.runtimeconfig.dev.json
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.dll
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\bin\Debug\net5.0\ref\CountRealNumbers.dll
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.pdb
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.AssemblyInfo.cs
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.dll
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\obj\Debug\net5.0\ref\CountRealNumbers.dll
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.pdb
+C:\Users\esi\source\repos\Dictionaries,LambdaAndLINQLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.genruntimeconfig.cache

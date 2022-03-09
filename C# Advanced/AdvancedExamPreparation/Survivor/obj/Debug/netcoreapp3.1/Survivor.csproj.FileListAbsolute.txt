@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\bin\Debug\netcoreapp3.1\Survivor.exe
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\bin\Debug\netcoreapp3.1\Survivor.deps.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\bin\Debug\netcoreapp3.1\Survivor.runtimeconfig.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\bin\Debug\netcoreapp3.1\Survivor.runtimeconfig.dev.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\bin\Debug\netcoreapp3.1\Survivor.dll
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\bin\Debug\netcoreapp3.1\Survivor.pdb
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\obj\Debug\netcoreapp3.1\Survivor.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\obj\Debug\netcoreapp3.1\Survivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\obj\Debug\netcoreapp3.1\Survivor.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\obj\Debug\netcoreapp3.1\Survivor.AssemblyInfo.cs
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\obj\Debug\netcoreapp3.1\Survivor.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\obj\Debug\netcoreapp3.1\Survivor.dll
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\obj\Debug\netcoreapp3.1\Survivor.pdb
+C:\Users\esi\source\repos\AdvancedExamPreparation\Survivor\obj\Debug\netcoreapp3.1\Survivor.genruntimeconfig.cache

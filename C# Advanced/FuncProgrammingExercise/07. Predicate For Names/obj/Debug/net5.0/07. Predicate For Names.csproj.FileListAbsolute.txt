@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.exe
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.deps.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.runtimeconfig.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.runtimeconfig.dev.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\bin\Debug\net5.0\ref\07. Predicate For Names.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.pdb
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.AssemblyInfo.cs
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\obj\Debug\net5.0\ref\07. Predicate For Names.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.pdb
+C:\Users\esi\source\repos\FuncProgrammingExercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.genruntimeconfig.cache

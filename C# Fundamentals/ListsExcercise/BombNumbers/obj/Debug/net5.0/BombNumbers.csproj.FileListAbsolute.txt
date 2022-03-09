@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\bin\Debug\net5.0\BombNumbers.exe
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\bin\Debug\net5.0\BombNumbers.deps.json
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\bin\Debug\net5.0\BombNumbers.runtimeconfig.json
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\bin\Debug\net5.0\BombNumbers.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\bin\Debug\net5.0\BombNumbers.dll
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\bin\Debug\net5.0\ref\BombNumbers.dll
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\bin\Debug\net5.0\BombNumbers.pdb
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\obj\Debug\net5.0\BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\obj\Debug\net5.0\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\obj\Debug\net5.0\BombNumbers.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\obj\Debug\net5.0\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\obj\Debug\net5.0\BombNumbers.dll
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\obj\Debug\net5.0\ref\BombNumbers.dll
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\obj\Debug\net5.0\BombNumbers.pdb
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\obj\Debug\net5.0\BombNumbers.genruntimeconfig.cache
+C:\Users\esi\source\repos\ListsExcercise\BombNumbers\obj\Debug\net5.0\BombNumbers.csproj.AssemblyReference.cache

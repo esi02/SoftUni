@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\bin\Debug\netcoreapp3.1\Profit.exe
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\bin\Debug\netcoreapp3.1\Profit.deps.json
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\bin\Debug\netcoreapp3.1\Profit.runtimeconfig.json
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\bin\Debug\netcoreapp3.1\Profit.runtimeconfig.dev.json
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\bin\Debug\netcoreapp3.1\Profit.dll
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\bin\Debug\netcoreapp3.1\Profit.pdb
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\obj\Debug\netcoreapp3.1\Profit.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\obj\Debug\netcoreapp3.1\Profit.AssemblyInfo.cs
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\obj\Debug\netcoreapp3.1\Profit.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\obj\Debug\netcoreapp3.1\Profit.dll
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\obj\Debug\netcoreapp3.1\Profit.pdb
+C:\Users\esi\source\repos\NestedLoopsMore\Profit\obj\Debug\netcoreapp3.1\Profit.genruntimeconfig.cache

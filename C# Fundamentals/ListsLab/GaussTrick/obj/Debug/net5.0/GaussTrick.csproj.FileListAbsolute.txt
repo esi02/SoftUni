@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ListsLab\GaussTrick\obj\Debug\net5.0\GaussTrick.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\ListsLab\GaussTrick\obj\Debug\net5.0\GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsLab\GaussTrick\obj\Debug\net5.0\GaussTrick.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsLab\GaussTrick\obj\Debug\net5.0\GaussTrick.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsLab\GaussTrick\obj\Debug\net5.0\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsLab\GaussTrick\bin\Debug\net5.0\GaussTrick.exe
+C:\Users\esi\source\repos\ListsLab\GaussTrick\bin\Debug\net5.0\GaussTrick.deps.json
+C:\Users\esi\source\repos\ListsLab\GaussTrick\bin\Debug\net5.0\GaussTrick.runtimeconfig.json
+C:\Users\esi\source\repos\ListsLab\GaussTrick\bin\Debug\net5.0\GaussTrick.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsLab\GaussTrick\bin\Debug\net5.0\GaussTrick.dll
+C:\Users\esi\source\repos\ListsLab\GaussTrick\bin\Debug\net5.0\ref\GaussTrick.dll
+C:\Users\esi\source\repos\ListsLab\GaussTrick\bin\Debug\net5.0\GaussTrick.pdb
+C:\Users\esi\source\repos\ListsLab\GaussTrick\obj\Debug\net5.0\GaussTrick.dll
+C:\Users\esi\source\repos\ListsLab\GaussTrick\obj\Debug\net5.0\ref\GaussTrick.dll
+C:\Users\esi\source\repos\ListsLab\GaussTrick\obj\Debug\net5.0\GaussTrick.pdb
+C:\Users\esi\source\repos\ListsLab\GaussTrick\obj\Debug\net5.0\GaussTrick.genruntimeconfig.cache

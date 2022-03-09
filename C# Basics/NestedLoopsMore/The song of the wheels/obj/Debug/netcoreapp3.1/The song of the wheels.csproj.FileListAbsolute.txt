@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.exe
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.deps.json
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.runtimeconfig.json
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.runtimeconfig.dev.json
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.dll
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\bin\Debug\netcoreapp3.1\The song of the wheels.pdb
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.AssemblyInfo.cs
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.dll
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.pdb
+C:\Users\esi\source\repos\NestedLoopsMore\The song of the wheels\obj\Debug\netcoreapp3.1\The song of the wheels.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.exe
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.deps.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.runtimeconfig.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.runtimeconfig.dev.json
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\bin\Debug\net5.0\ref\10. Predicate Party!.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.pdb
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.AssemblyInfo.cs
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\obj\Debug\net5.0\ref\10. Predicate Party!.dll
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.pdb
+C:\Users\esi\source\repos\FuncProgrammingExercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.genruntimeconfig.cache

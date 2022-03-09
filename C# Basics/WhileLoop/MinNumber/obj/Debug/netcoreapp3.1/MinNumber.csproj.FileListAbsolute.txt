@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\WhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.exe
+C:\Users\esi\source\repos\WhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.deps.json
+C:\Users\esi\source\repos\WhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.json
+C:\Users\esi\source\repos\WhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.dev.json
+C:\Users\esi\source\repos\WhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.dll
+C:\Users\esi\source\repos\WhileLoop\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.pdb
+C:\Users\esi\source\repos\WhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\WhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\WhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfo.cs
+C:\Users\esi\source\repos\WhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\WhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.dll
+C:\Users\esi\source\repos\WhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.pdb
+C:\Users\esi\source\repos\WhileLoop\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.genruntimeconfig.cache

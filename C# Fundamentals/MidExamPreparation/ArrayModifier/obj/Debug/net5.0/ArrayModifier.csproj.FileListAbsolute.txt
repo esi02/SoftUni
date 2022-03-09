@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\bin\Debug\net5.0\ArrayModifier.exe
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\bin\Debug\net5.0\ArrayModifier.deps.json
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\bin\Debug\net5.0\ArrayModifier.runtimeconfig.json
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\bin\Debug\net5.0\ArrayModifier.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\bin\Debug\net5.0\ArrayModifier.dll
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\bin\Debug\net5.0\ref\ArrayModifier.dll
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\bin\Debug\net5.0\ArrayModifier.pdb
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\obj\Debug\net5.0\ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\obj\Debug\net5.0\ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\obj\Debug\net5.0\ArrayModifier.AssemblyInfo.cs
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\obj\Debug\net5.0\ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\obj\Debug\net5.0\ArrayModifier.dll
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\obj\Debug\net5.0\ref\ArrayModifier.dll
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\obj\Debug\net5.0\ArrayModifier.pdb
+C:\Users\esi\source\repos\MidExamPreparation\ArrayModifier\obj\Debug\net5.0\ArrayModifier.genruntimeconfig.cache

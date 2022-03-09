@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\bin\Debug\net5.0\MaxSequenceofEqualElements.exe
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\bin\Debug\net5.0\MaxSequenceofEqualElements.deps.json
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\bin\Debug\net5.0\MaxSequenceofEqualElements.runtimeconfig.json
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\bin\Debug\net5.0\MaxSequenceofEqualElements.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\bin\Debug\net5.0\MaxSequenceofEqualElements.dll
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\bin\Debug\net5.0\ref\MaxSequenceofEqualElements.dll
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\bin\Debug\net5.0\MaxSequenceofEqualElements.pdb
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\obj\Debug\net5.0\MaxSequenceofEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\obj\Debug\net5.0\MaxSequenceofEqualElements.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\obj\Debug\net5.0\MaxSequenceofEqualElements.AssemblyInfo.cs
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\obj\Debug\net5.0\MaxSequenceofEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\obj\Debug\net5.0\MaxSequenceofEqualElements.dll
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\obj\Debug\net5.0\ref\MaxSequenceofEqualElements.dll
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\obj\Debug\net5.0\MaxSequenceofEqualElements.pdb
+C:\Users\esi\source\repos\ArraysExcercise\MaxSequenceofEqualElements\obj\Debug\net5.0\MaxSequenceofEqualElements.genruntimeconfig.cache

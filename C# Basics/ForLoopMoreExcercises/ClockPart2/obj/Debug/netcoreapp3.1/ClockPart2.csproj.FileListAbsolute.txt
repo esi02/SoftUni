@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\bin\Debug\netcoreapp3.1\ClockPart2.exe
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\bin\Debug\netcoreapp3.1\ClockPart2.deps.json
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\bin\Debug\netcoreapp3.1\ClockPart2.runtimeconfig.json
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\bin\Debug\netcoreapp3.1\ClockPart2.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\bin\Debug\netcoreapp3.1\ClockPart2.dll
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\bin\Debug\netcoreapp3.1\ClockPart2.pdb
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\obj\Debug\netcoreapp3.1\ClockPart2.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\obj\Debug\netcoreapp3.1\ClockPart2.AssemblyInfo.cs
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\obj\Debug\netcoreapp3.1\ClockPart2.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\obj\Debug\netcoreapp3.1\ClockPart2.dll
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\obj\Debug\netcoreapp3.1\ClockPart2.pdb
+C:\Users\esi\source\repos\ForLoopMoreExcercises\ClockPart2\obj\Debug\netcoreapp3.1\ClockPart2.genruntimeconfig.cache

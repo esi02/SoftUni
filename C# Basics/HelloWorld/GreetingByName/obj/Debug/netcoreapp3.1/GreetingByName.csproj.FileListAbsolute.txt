@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.exe
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.deps.json
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.json
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.dev.json
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.dll
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.pdb
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfo.cs
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.dll
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.pdb
+C:\Users\esi\source\repos\HelloWorld\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.genruntimeconfig.cache

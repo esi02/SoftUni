@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.exe
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.deps.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.dev.json
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.dll
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.pdb
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfo.cs
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.dll
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.pdb
+C:\Users\esi\source\repos\AdvancedExamPreparation\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.genruntimeconfig.cache

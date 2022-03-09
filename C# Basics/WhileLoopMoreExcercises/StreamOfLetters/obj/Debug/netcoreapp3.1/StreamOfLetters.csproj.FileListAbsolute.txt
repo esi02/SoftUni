@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.exe
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.deps.json
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.runtimeconfig.json
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.runtimeconfig.dev.json
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.dll
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.pdb
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.AssemblyInfo.cs
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.dll
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.pdb
+C:\Users\esi\source\repos\WhileLoopMoreExcercises\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.genruntimeconfig.cache

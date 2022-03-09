@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\bin\Debug\net5.0\NeedForSpeed.exe
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\bin\Debug\net5.0\NeedForSpeed.deps.json
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\bin\Debug\net5.0\NeedForSpeed.runtimeconfig.json
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\bin\Debug\net5.0\NeedForSpeed.runtimeconfig.dev.json
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\bin\Debug\net5.0\NeedForSpeed.dll
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\bin\Debug\net5.0\ref\NeedForSpeed.dll
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\bin\Debug\net5.0\NeedForSpeed.pdb
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\obj\Debug\net5.0\NeedForSpeed.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\obj\Debug\net5.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\obj\Debug\net5.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\obj\Debug\net5.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\obj\Debug\net5.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\obj\Debug\net5.0\NeedForSpeed.dll
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\obj\Debug\net5.0\ref\NeedForSpeed.dll
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\obj\Debug\net5.0\NeedForSpeed.pdb
+C:\Users\esi\source\repos\FinalExamPrep\NeedForSpeed\obj\Debug\net5.0\NeedForSpeed.genruntimeconfig.cache

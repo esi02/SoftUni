@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\bin\Debug\net5.0\Ranking.exe
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\bin\Debug\net5.0\Ranking.deps.json
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\bin\Debug\net5.0\Ranking.runtimeconfig.json
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\bin\Debug\net5.0\Ranking.runtimeconfig.dev.json
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\bin\Debug\net5.0\Ranking.dll
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\bin\Debug\net5.0\ref\Ranking.dll
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\bin\Debug\net5.0\Ranking.pdb
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\obj\Debug\net5.0\Ranking.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\obj\Debug\net5.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\obj\Debug\net5.0\Ranking.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\obj\Debug\net5.0\Ranking.AssemblyInfo.cs
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\obj\Debug\net5.0\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\obj\Debug\net5.0\Ranking.dll
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\obj\Debug\net5.0\ref\Ranking.dll
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\obj\Debug\net5.0\Ranking.pdb
+C:\Users\esi\source\repos\AssociativeArraysMoreExcercise\AssociativeArraysMoreExcercise\obj\Debug\net5.0\Ranking.genruntimeconfig.cache

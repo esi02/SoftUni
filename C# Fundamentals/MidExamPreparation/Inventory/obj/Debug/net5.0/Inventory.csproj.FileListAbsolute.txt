@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\bin\Debug\net5.0\Inventory.exe
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\bin\Debug\net5.0\Inventory.deps.json
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\bin\Debug\net5.0\Inventory.runtimeconfig.json
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\bin\Debug\net5.0\Inventory.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\bin\Debug\net5.0\Inventory.dll
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\bin\Debug\net5.0\ref\Inventory.dll
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\bin\Debug\net5.0\Inventory.pdb
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\obj\Debug\net5.0\Inventory.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\obj\Debug\net5.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\obj\Debug\net5.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\obj\Debug\net5.0\Inventory.AssemblyInfo.cs
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\obj\Debug\net5.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\obj\Debug\net5.0\Inventory.dll
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\obj\Debug\net5.0\ref\Inventory.dll
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\obj\Debug\net5.0\Inventory.pdb
+C:\Users\esi\source\repos\MidExamPreparation\Inventory\obj\Debug\net5.0\Inventory.genruntimeconfig.cache

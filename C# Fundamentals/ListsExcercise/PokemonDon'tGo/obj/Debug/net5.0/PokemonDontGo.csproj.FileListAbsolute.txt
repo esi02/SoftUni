@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\bin\Debug\net5.0\PokemonDontGo.exe
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\bin\Debug\net5.0\PokemonDontGo.deps.json
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\bin\Debug\net5.0\PokemonDontGo.runtimeconfig.json
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\bin\Debug\net5.0\PokemonDontGo.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\bin\Debug\net5.0\PokemonDontGo.dll
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\bin\Debug\net5.0\ref\PokemonDontGo.dll
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\bin\Debug\net5.0\PokemonDontGo.pdb
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\obj\Debug\net5.0\PokemonDontGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\obj\Debug\net5.0\PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\obj\Debug\net5.0\PokemonDontGo.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\obj\Debug\net5.0\PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\obj\Debug\net5.0\PokemonDontGo.dll
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\obj\Debug\net5.0\ref\PokemonDontGo.dll
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\obj\Debug\net5.0\PokemonDontGo.pdb
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\obj\Debug\net5.0\PokemonDontGo.genruntimeconfig.cache
+C:\Users\esi\source\repos\ListsExcercise\PokemonDon'tGo\obj\Debug\net5.0\PokemonDontGo.csproj.AssemblyReference.cache

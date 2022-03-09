@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.exe
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.deps.json
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.runtimeconfig.json
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.runtimeconfig.dev.json
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.dll
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.pdb
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.AssemblyInfo.cs
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.dll
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.pdb
+C:\Users\esi\source\repos\PreviousExamExcercises\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.genruntimeconfig.cache

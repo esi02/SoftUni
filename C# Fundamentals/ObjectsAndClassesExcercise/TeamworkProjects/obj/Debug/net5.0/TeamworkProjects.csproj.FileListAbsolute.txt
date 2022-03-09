@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\bin\Debug\net5.0\TeamworkProjects.exe
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\bin\Debug\net5.0\TeamworkProjects.deps.json
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\bin\Debug\net5.0\TeamworkProjects.runtimeconfig.json
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\bin\Debug\net5.0\TeamworkProjects.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\bin\Debug\net5.0\TeamworkProjects.dll
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\bin\Debug\net5.0\ref\TeamworkProjects.dll
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\bin\Debug\net5.0\TeamworkProjects.pdb
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\obj\Debug\net5.0\TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\obj\Debug\net5.0\TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\obj\Debug\net5.0\TeamworkProjects.AssemblyInfo.cs
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\obj\Debug\net5.0\TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\obj\Debug\net5.0\TeamworkProjects.dll
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\obj\Debug\net5.0\ref\TeamworkProjects.dll
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\obj\Debug\net5.0\TeamworkProjects.pdb
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\obj\Debug\net5.0\TeamworkProjects.genruntimeconfig.cache
+C:\Users\esi\source\repos\ObjectsAndClassesExcercise\TeamworkProjects\obj\Debug\net5.0\TeamworkProjects.csproj.AssemblyReference.cache

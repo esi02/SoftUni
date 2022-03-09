@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\bin\Debug\net5.0\Snake Moves.exe
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\bin\Debug\net5.0\Snake Moves.deps.json
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\bin\Debug\net5.0\Snake Moves.runtimeconfig.json
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\bin\Debug\net5.0\Snake Moves.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\bin\Debug\net5.0\Snake Moves.dll
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\bin\Debug\net5.0\ref\Snake Moves.dll
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\bin\Debug\net5.0\Snake Moves.pdb
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\obj\Debug\net5.0\Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\obj\Debug\net5.0\Snake Moves.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\obj\Debug\net5.0\Snake Moves.AssemblyInfo.cs
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\obj\Debug\net5.0\Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\obj\Debug\net5.0\Snake Moves.dll
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\obj\Debug\net5.0\ref\Snake Moves.dll
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\obj\Debug\net5.0\Snake Moves.pdb
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\obj\Debug\net5.0\Snake Moves.genruntimeconfig.cache
+C:\Users\esi\source\repos\MatrixExercise\Snake Moves\obj\Debug\net5.0\Snake Moves.csproj.AssemblyReference.cache

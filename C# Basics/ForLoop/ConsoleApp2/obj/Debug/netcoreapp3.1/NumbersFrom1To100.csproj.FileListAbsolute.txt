@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\bin\Debug\netcoreapp3.1\NumbersFrom1To100.exe
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\bin\Debug\netcoreapp3.1\NumbersFrom1To100.deps.json
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\bin\Debug\netcoreapp3.1\NumbersFrom1To100.runtimeconfig.json
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\bin\Debug\netcoreapp3.1\NumbersFrom1To100.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\bin\Debug\netcoreapp3.1\NumbersFrom1To100.dll
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\bin\Debug\netcoreapp3.1\NumbersFrom1To100.pdb
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\obj\Debug\netcoreapp3.1\NumbersFrom1To100.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\obj\Debug\netcoreapp3.1\NumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\obj\Debug\netcoreapp3.1\NumbersFrom1To100.AssemblyInfo.cs
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\obj\Debug\netcoreapp3.1\NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\obj\Debug\netcoreapp3.1\NumbersFrom1To100.dll
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\obj\Debug\netcoreapp3.1\NumbersFrom1To100.pdb
+C:\Users\esi\source\repos\ForLoop\ConsoleApp2\obj\Debug\netcoreapp3.1\NumbersFrom1To100.genruntimeconfig.cache

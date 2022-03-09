@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.exe
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.deps.json
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.runtimeconfig.json
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\ref\MatchingBrackets.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.pdb
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.AssemblyInfo.cs
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\ref\MatchingBrackets.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.pdb
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.genruntimeconfig.cache
+C:\Users\esi\source\repos\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.csproj.AssemblyReference.cache

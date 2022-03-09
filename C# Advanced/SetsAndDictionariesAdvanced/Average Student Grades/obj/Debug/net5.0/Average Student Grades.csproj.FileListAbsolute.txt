@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\bin\Debug\net5.0\Average Student Grades.exe
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\bin\Debug\net5.0\Average Student Grades.deps.json
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\bin\Debug\net5.0\Average Student Grades.runtimeconfig.json
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\bin\Debug\net5.0\Average Student Grades.runtimeconfig.dev.json
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\bin\Debug\net5.0\Average Student Grades.dll
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\bin\Debug\net5.0\ref\Average Student Grades.dll
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\bin\Debug\net5.0\Average Student Grades.pdb
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\obj\Debug\net5.0\Average Student Grades.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\obj\Debug\net5.0\Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\obj\Debug\net5.0\Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\obj\Debug\net5.0\Average Student Grades.AssemblyInfo.cs
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\obj\Debug\net5.0\Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\obj\Debug\net5.0\Average Student Grades.dll
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\obj\Debug\net5.0\ref\Average Student Grades.dll
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\obj\Debug\net5.0\Average Student Grades.pdb
+C:\Users\esi\source\repos\SetsAndDictionariesAdvanced\Average Student Grades\obj\Debug\net5.0\Average Student Grades.genruntimeconfig.cache

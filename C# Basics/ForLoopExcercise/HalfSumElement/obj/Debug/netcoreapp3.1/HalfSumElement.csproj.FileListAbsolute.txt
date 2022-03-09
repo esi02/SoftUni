@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.exe
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.deps.json
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.json
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfo.cs
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\esi\source\repos\ForLoopExcercise\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.genruntimeconfig.cache

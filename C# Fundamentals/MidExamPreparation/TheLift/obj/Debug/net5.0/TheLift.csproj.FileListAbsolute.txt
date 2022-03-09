@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\bin\Debug\net5.0\TheLift.exe
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\bin\Debug\net5.0\TheLift.deps.json
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\bin\Debug\net5.0\TheLift.runtimeconfig.json
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\bin\Debug\net5.0\TheLift.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\bin\Debug\net5.0\TheLift.dll
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\bin\Debug\net5.0\ref\TheLift.dll
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\bin\Debug\net5.0\TheLift.pdb
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\obj\Debug\net5.0\TheLift.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\obj\Debug\net5.0\TheLift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\obj\Debug\net5.0\TheLift.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\obj\Debug\net5.0\TheLift.AssemblyInfo.cs
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\obj\Debug\net5.0\TheLift.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\obj\Debug\net5.0\TheLift.dll
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\obj\Debug\net5.0\ref\TheLift.dll
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\obj\Debug\net5.0\TheLift.pdb
+C:\Users\esi\source\repos\MidExamPreparation\TheLift\obj\Debug\net5.0\TheLift.genruntimeconfig.cache

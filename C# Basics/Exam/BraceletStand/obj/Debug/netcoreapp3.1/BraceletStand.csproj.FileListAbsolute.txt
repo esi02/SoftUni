@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\Exam\BraceletStand\bin\Debug\netcoreapp3.1\BraceletStand.exe
+C:\Users\esi\source\repos\Exam\BraceletStand\bin\Debug\netcoreapp3.1\BraceletStand.deps.json
+C:\Users\esi\source\repos\Exam\BraceletStand\bin\Debug\netcoreapp3.1\BraceletStand.runtimeconfig.json
+C:\Users\esi\source\repos\Exam\BraceletStand\bin\Debug\netcoreapp3.1\BraceletStand.runtimeconfig.dev.json
+C:\Users\esi\source\repos\Exam\BraceletStand\bin\Debug\netcoreapp3.1\BraceletStand.dll
+C:\Users\esi\source\repos\Exam\BraceletStand\bin\Debug\netcoreapp3.1\BraceletStand.pdb
+C:\Users\esi\source\repos\Exam\BraceletStand\obj\Debug\netcoreapp3.1\BraceletStand.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\Exam\BraceletStand\obj\Debug\netcoreapp3.1\BraceletStand.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\Exam\BraceletStand\obj\Debug\netcoreapp3.1\BraceletStand.AssemblyInfo.cs
+C:\Users\esi\source\repos\Exam\BraceletStand\obj\Debug\netcoreapp3.1\BraceletStand.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\Exam\BraceletStand\obj\Debug\netcoreapp3.1\BraceletStand.dll
+C:\Users\esi\source\repos\Exam\BraceletStand\obj\Debug\netcoreapp3.1\BraceletStand.pdb
+C:\Users\esi\source\repos\Exam\BraceletStand\obj\Debug\netcoreapp3.1\BraceletStand.genruntimeconfig.cache

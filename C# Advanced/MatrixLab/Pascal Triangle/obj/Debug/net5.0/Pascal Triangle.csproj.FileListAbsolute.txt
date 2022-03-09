@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.exe
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.deps.json
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.runtimeconfig.json
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.dll
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\bin\Debug\net5.0\ref\Pascal Triangle.dll
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.pdb
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.AssemblyInfo.cs
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.dll
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\obj\Debug\net5.0\ref\Pascal Triangle.dll
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.pdb
+C:\Users\esi\source\repos\MatrixLab\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.genruntimeconfig.cache

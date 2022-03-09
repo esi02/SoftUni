@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.AssemblyInfo.cs
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.exe
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.deps.json
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.runtimeconfig.json
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.dll
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\bin\Debug\net5.0\ref\ArrayManipulator.dll
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.pdb
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.dll
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\obj\Debug\net5.0\ref\ArrayManipulator.dll
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.pdb
+C:\Users\esi\source\repos\MethodsExcercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.genruntimeconfig.cache

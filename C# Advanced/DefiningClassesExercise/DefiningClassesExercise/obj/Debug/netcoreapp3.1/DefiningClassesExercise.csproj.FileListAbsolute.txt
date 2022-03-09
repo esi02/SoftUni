@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\bin\Debug\netcoreapp3.1\DefiningClassesExercise.exe
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\bin\Debug\netcoreapp3.1\DefiningClassesExercise.deps.json
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\bin\Debug\netcoreapp3.1\DefiningClassesExercise.runtimeconfig.json
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\bin\Debug\netcoreapp3.1\DefiningClassesExercise.runtimeconfig.dev.json
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\bin\Debug\netcoreapp3.1\DefiningClassesExercise.dll
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\bin\Debug\netcoreapp3.1\DefiningClassesExercise.pdb
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\netcoreapp3.1\DefiningClassesExercise.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\netcoreapp3.1\DefiningClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\netcoreapp3.1\DefiningClassesExercise.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\netcoreapp3.1\DefiningClassesExercise.AssemblyInfo.cs
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\netcoreapp3.1\DefiningClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\netcoreapp3.1\DefiningClassesExercise.dll
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\netcoreapp3.1\DefiningClassesExercise.pdb
+C:\Users\esi\source\repos\DefiningClassesExercise\DefiningClassesExercise\obj\Debug\netcoreapp3.1\DefiningClassesExercise.genruntimeconfig.cache

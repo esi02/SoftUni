@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\bin\Debug\netcoreapp3.1\AddBags.exe
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\bin\Debug\netcoreapp3.1\AddBags.deps.json
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\bin\Debug\netcoreapp3.1\AddBags.runtimeconfig.json
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\bin\Debug\netcoreapp3.1\AddBags.runtimeconfig.dev.json
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\bin\Debug\netcoreapp3.1\AddBags.dll
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\bin\Debug\netcoreapp3.1\AddBags.pdb
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\obj\Debug\netcoreapp3.1\AddBags.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\obj\Debug\netcoreapp3.1\AddBags.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\obj\Debug\netcoreapp3.1\AddBags.AssemblyInfo.cs
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\obj\Debug\netcoreapp3.1\AddBags.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\obj\Debug\netcoreapp3.1\AddBags.dll
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\obj\Debug\netcoreapp3.1\AddBags.pdb
+C:\Users\esi\source\repos\PreviousExamExcercises\AddBags\obj\Debug\netcoreapp3.1\AddBags.genruntimeconfig.cache

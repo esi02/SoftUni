@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\bin\Debug\net5.0\SignOfIntegerNumbers.exe
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\bin\Debug\net5.0\SignOfIntegerNumbers.deps.json
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\bin\Debug\net5.0\SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\bin\Debug\net5.0\SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\bin\Debug\net5.0\SignOfIntegerNumbers.dll
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\bin\Debug\net5.0\ref\SignOfIntegerNumbers.dll
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\bin\Debug\net5.0\SignOfIntegerNumbers.pdb
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\obj\Debug\net5.0\SignOfIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\obj\Debug\net5.0\SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\obj\Debug\net5.0\SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\obj\Debug\net5.0\SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\obj\Debug\net5.0\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\obj\Debug\net5.0\SignOfIntegerNumbers.dll
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\obj\Debug\net5.0\ref\SignOfIntegerNumbers.dll
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\obj\Debug\net5.0\SignOfIntegerNumbers.pdb
+C:\Users\esi\source\repos\MethodsLab\MethodsLab\obj\Debug\net5.0\SignOfIntegerNumbers.genruntimeconfig.cache

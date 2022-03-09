@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\bin\Debug\net5.0\AdAstra.exe
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\bin\Debug\net5.0\AdAstra.deps.json
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\bin\Debug\net5.0\AdAstra.runtimeconfig.json
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\bin\Debug\net5.0\AdAstra.runtimeconfig.dev.json
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\bin\Debug\net5.0\AdAstra.dll
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\bin\Debug\net5.0\ref\AdAstra.dll
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\bin\Debug\net5.0\AdAstra.pdb
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\obj\Debug\net5.0\AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\obj\Debug\net5.0\AdAstra.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\obj\Debug\net5.0\AdAstra.AssemblyInfo.cs
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\obj\Debug\net5.0\AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\obj\Debug\net5.0\AdAstra.dll
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\obj\Debug\net5.0\ref\AdAstra.dll
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\obj\Debug\net5.0\AdAstra.pdb
+C:\Users\esi\source\repos\FinalExamPrep\AdAstra\obj\Debug\net5.0\AdAstra.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.exe
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.deps.json
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.runtimeconfig.json
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.runtimeconfig.dev.json
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.dll
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.pdb
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.AssemblyInfo.cs
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.dll
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.pdb
+C:\Users\esi\source\repos\WhileLoop\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.genruntimeconfig.cache

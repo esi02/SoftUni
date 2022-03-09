@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.exe
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.deps.json
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.runtimeconfig.json
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.dll
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.pdb
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.AssemblyInfo.cs
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.dll
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.pdb
+C:\Users\esi\source\repos\ConditionalStatements\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\esi\source\repos\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

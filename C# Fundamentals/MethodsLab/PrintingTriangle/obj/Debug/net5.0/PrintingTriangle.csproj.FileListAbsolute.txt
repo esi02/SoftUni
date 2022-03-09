@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.exe
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.deps.json
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.runtimeconfig.json
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.dll
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\bin\Debug\net5.0\ref\PrintingTriangle.dll
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.pdb
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.AssemblyInfo.cs
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.dll
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\obj\Debug\net5.0\ref\PrintingTriangle.dll
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.pdb
+C:\Users\esi\source\repos\MethodsLab\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.genruntimeconfig.cache

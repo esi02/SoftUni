@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\bin\Debug\net5.0\AMinerTask.exe
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\bin\Debug\net5.0\AMinerTask.deps.json
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\bin\Debug\net5.0\AMinerTask.runtimeconfig.json
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\bin\Debug\net5.0\AMinerTask.runtimeconfig.dev.json
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\bin\Debug\net5.0\AMinerTask.dll
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\bin\Debug\net5.0\ref\AMinerTask.dll
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\bin\Debug\net5.0\AMinerTask.pdb
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\obj\Debug\net5.0\AMinerTask.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\obj\Debug\net5.0\AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\obj\Debug\net5.0\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\obj\Debug\net5.0\AMinerTask.AssemblyInfo.cs
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\obj\Debug\net5.0\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\obj\Debug\net5.0\AMinerTask.dll
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\obj\Debug\net5.0\ref\AMinerTask.dll
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\obj\Debug\net5.0\AMinerTask.pdb
+C:\Users\esi\source\repos\AssociativeArraysExcercise\AMinerTask\obj\Debug\net5.0\AMinerTask.genruntimeconfig.cache

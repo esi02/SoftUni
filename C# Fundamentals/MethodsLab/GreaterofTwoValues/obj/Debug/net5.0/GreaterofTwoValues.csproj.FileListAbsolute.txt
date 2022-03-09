@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\bin\Debug\net5.0\GreaterofTwoValues.exe
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\bin\Debug\net5.0\GreaterofTwoValues.deps.json
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\bin\Debug\net5.0\GreaterofTwoValues.runtimeconfig.json
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\bin\Debug\net5.0\GreaterofTwoValues.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\bin\Debug\net5.0\GreaterofTwoValues.dll
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\bin\Debug\net5.0\ref\GreaterofTwoValues.dll
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\bin\Debug\net5.0\GreaterofTwoValues.pdb
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\obj\Debug\net5.0\GreaterofTwoValues.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\obj\Debug\net5.0\GreaterofTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\obj\Debug\net5.0\GreaterofTwoValues.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\obj\Debug\net5.0\GreaterofTwoValues.AssemblyInfo.cs
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\obj\Debug\net5.0\GreaterofTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\obj\Debug\net5.0\GreaterofTwoValues.dll
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\obj\Debug\net5.0\ref\GreaterofTwoValues.dll
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\obj\Debug\net5.0\GreaterofTwoValues.pdb
+C:\Users\esi\source\repos\MethodsLab\GreaterofTwoValues\obj\Debug\net5.0\GreaterofTwoValues.genruntimeconfig.cache

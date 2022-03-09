@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.exe
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.deps.json
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.runtimeconfig.json
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\ref\PrintEvenNumbers.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.pdb
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\ref\PrintEvenNumbers.dll
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.pdb
+C:\Users\esi\source\repos\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.genruntimeconfig.cache

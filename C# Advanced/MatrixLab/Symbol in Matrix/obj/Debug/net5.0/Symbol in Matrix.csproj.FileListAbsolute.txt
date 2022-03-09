@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.exe
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.deps.json
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.runtimeconfig.json
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.dll
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\bin\Debug\net5.0\ref\Symbol in Matrix.dll
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\bin\Debug\net5.0\Symbol in Matrix.pdb
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.AssemblyInfo.cs
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.dll
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\obj\Debug\net5.0\ref\Symbol in Matrix.dll
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.pdb
+C:\Users\esi\source\repos\MatrixLab\Symbol in Matrix\obj\Debug\net5.0\Symbol in Matrix.genruntimeconfig.cache

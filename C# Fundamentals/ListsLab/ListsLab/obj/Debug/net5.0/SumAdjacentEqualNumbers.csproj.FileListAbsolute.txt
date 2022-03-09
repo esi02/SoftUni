@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ListsLab\ListsLab\bin\Debug\net5.0\SumAdjacentEqualNumbers.exe
+C:\Users\esi\source\repos\ListsLab\ListsLab\bin\Debug\net5.0\SumAdjacentEqualNumbers.deps.json
+C:\Users\esi\source\repos\ListsLab\ListsLab\bin\Debug\net5.0\SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\esi\source\repos\ListsLab\ListsLab\bin\Debug\net5.0\SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsLab\ListsLab\bin\Debug\net5.0\SumAdjacentEqualNumbers.dll
+C:\Users\esi\source\repos\ListsLab\ListsLab\bin\Debug\net5.0\ref\SumAdjacentEqualNumbers.dll
+C:\Users\esi\source\repos\ListsLab\ListsLab\bin\Debug\net5.0\SumAdjacentEqualNumbers.pdb
+C:\Users\esi\source\repos\ListsLab\ListsLab\obj\Debug\net5.0\SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsLab\ListsLab\obj\Debug\net5.0\SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsLab\ListsLab\obj\Debug\net5.0\SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsLab\ListsLab\obj\Debug\net5.0\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsLab\ListsLab\obj\Debug\net5.0\SumAdjacentEqualNumbers.dll
+C:\Users\esi\source\repos\ListsLab\ListsLab\obj\Debug\net5.0\ref\SumAdjacentEqualNumbers.dll
+C:\Users\esi\source\repos\ListsLab\ListsLab\obj\Debug\net5.0\SumAdjacentEqualNumbers.pdb
+C:\Users\esi\source\repos\ListsLab\ListsLab\obj\Debug\net5.0\SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\esi\source\repos\ListsLab\ListsLab\obj\Debug\net5.0\SumAdjacentEqualNumbers.csproj.AssemblyReference.cache

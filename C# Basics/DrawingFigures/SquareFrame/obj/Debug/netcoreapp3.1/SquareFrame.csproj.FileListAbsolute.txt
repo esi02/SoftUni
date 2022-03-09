@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.exe
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.deps.json
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.runtimeconfig.json
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.runtimeconfig.dev.json
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.dll
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\bin\Debug\netcoreapp3.1\SquareFrame.pdb
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.AssemblyInfo.cs
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.dll
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.pdb
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.genruntimeconfig.cache
+C:\Users\esi\source\repos\DrawingFigures\SquareFrame\obj\Debug\netcoreapp3.1\SquareFrame.csprojAssemblyReference.cache

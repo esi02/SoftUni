@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\bin\Debug\net5.0\SoftUniCoursePlanning.exe
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\bin\Debug\net5.0\SoftUniCoursePlanning.deps.json
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\bin\Debug\net5.0\SoftUniCoursePlanning.runtimeconfig.json
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\bin\Debug\net5.0\SoftUniCoursePlanning.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\bin\Debug\net5.0\SoftUniCoursePlanning.dll
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\bin\Debug\net5.0\ref\SoftUniCoursePlanning.dll
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\bin\Debug\net5.0\SoftUniCoursePlanning.pdb
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\obj\Debug\net5.0\SoftUniCoursePlanning.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\obj\Debug\net5.0\SoftUniCoursePlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\obj\Debug\net5.0\SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\obj\Debug\net5.0\SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\obj\Debug\net5.0\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\obj\Debug\net5.0\SoftUniCoursePlanning.dll
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\obj\Debug\net5.0\ref\SoftUniCoursePlanning.dll
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\obj\Debug\net5.0\SoftUniCoursePlanning.pdb
+C:\Users\esi\source\repos\ListsExcercise\SoftUniCoursePlanning\obj\Debug\net5.0\SoftUniCoursePlanning.genruntimeconfig.cache

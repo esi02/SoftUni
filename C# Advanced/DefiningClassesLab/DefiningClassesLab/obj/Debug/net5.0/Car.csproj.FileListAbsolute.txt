@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\bin\Debug\net5.0\Car.exe
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\bin\Debug\net5.0\Car.deps.json
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\bin\Debug\net5.0\Car.runtimeconfig.json
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\bin\Debug\net5.0\Car.dll
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\bin\Debug\net5.0\ref\Car.dll
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\bin\Debug\net5.0\Car.pdb
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\obj\Debug\net5.0\Car.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\obj\Debug\net5.0\Car.AssemblyInfo.cs
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\obj\Debug\net5.0\Car.dll
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\obj\Debug\net5.0\ref\Car.dll
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\obj\Debug\net5.0\Car.pdb
+C:\Users\esi\source\repos\DefiningClassesLab\DefiningClassesLab\obj\Debug\net5.0\Car.genruntimeconfig.cache

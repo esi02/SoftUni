@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\bin\Debug\net5.0\ChangeList.exe
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\bin\Debug\net5.0\ChangeList.deps.json
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.json
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\bin\Debug\net5.0\ChangeList.dll
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\bin\Debug\net5.0\ref\ChangeList.dll
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\bin\Debug\net5.0\ChangeList.pdb
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\obj\Debug\net5.0\ChangeList.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\obj\Debug\net5.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\obj\Debug\net5.0\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\obj\Debug\net5.0\ChangeList.dll
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\obj\Debug\net5.0\ref\ChangeList.dll
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\obj\Debug\net5.0\ChangeList.pdb
+C:\Users\esi\source\repos\ListsExcercise\ChangeList\obj\Debug\net5.0\ChangeList.genruntimeconfig.cache

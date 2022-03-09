@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.exe
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.deps.json
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.runtimeconfig.json
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.dll
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\bin\Debug\net5.0\ref\Zig-ZagArrays.dll
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\bin\Debug\net5.0\Zig-ZagArrays.pdb
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.dll
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\obj\Debug\net5.0\ref\Zig-ZagArrays.dll
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.pdb
+C:\Users\esi\source\repos\ArraysExcercise\Zig-ZagArrays\obj\Debug\net5.0\Zig-ZagArrays.genruntimeconfig.cache

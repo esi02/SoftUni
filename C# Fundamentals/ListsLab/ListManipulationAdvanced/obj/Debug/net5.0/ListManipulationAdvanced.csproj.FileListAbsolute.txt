@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.exe
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.deps.json
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.runtimeconfig.json
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.dll
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\bin\Debug\net5.0\ref\ListManipulationAdvanced.dll
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.pdb
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.dll
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\obj\Debug\net5.0\ref\ListManipulationAdvanced.dll
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.pdb
+C:\Users\esi\source\repos\ListsLab\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.genruntimeconfig.cache

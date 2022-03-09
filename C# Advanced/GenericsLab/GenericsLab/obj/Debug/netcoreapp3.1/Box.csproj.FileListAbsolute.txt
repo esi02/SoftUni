@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\bin\Debug\netcoreapp3.1\Box.exe
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\bin\Debug\netcoreapp3.1\Box.deps.json
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\bin\Debug\netcoreapp3.1\Box.runtimeconfig.json
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\bin\Debug\netcoreapp3.1\Box.runtimeconfig.dev.json
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\bin\Debug\netcoreapp3.1\Box.dll
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\bin\Debug\netcoreapp3.1\Box.pdb
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\obj\Debug\netcoreapp3.1\Box.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\obj\Debug\netcoreapp3.1\Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\obj\Debug\netcoreapp3.1\Box.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\obj\Debug\netcoreapp3.1\Box.AssemblyInfo.cs
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\obj\Debug\netcoreapp3.1\Box.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\obj\Debug\netcoreapp3.1\Box.dll
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\obj\Debug\netcoreapp3.1\Box.pdb
+C:\Users\esi\source\repos\GenericsLab\GenericsLab\obj\Debug\netcoreapp3.1\Box.genruntimeconfig.cache

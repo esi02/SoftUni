@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\bin\Debug\net5.0\ComputerStore.exe
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\bin\Debug\net5.0\ComputerStore.deps.json
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\bin\Debug\net5.0\ComputerStore.runtimeconfig.json
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\bin\Debug\net5.0\ComputerStore.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\bin\Debug\net5.0\ComputerStore.dll
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\bin\Debug\net5.0\ref\ComputerStore.dll
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\bin\Debug\net5.0\ComputerStore.pdb
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\obj\Debug\net5.0\ComputerStore.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\obj\Debug\net5.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\obj\Debug\net5.0\ComputerStore.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\obj\Debug\net5.0\ComputerStore.AssemblyInfo.cs
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\obj\Debug\net5.0\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\obj\Debug\net5.0\ComputerStore.dll
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\obj\Debug\net5.0\ref\ComputerStore.dll
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\obj\Debug\net5.0\ComputerStore.pdb
+C:\Users\esi\source\repos\MidExamPreparation\ComputerStore\obj\Debug\net5.0\ComputerStore.genruntimeconfig.cache

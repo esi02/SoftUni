@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\bin\Debug\netcoreapp3.1\MetersToKilometers.exe
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\bin\Debug\netcoreapp3.1\MetersToKilometers.deps.json
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\bin\Debug\netcoreapp3.1\MetersToKilometers.runtimeconfig.json
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\bin\Debug\netcoreapp3.1\MetersToKilometers.runtimeconfig.dev.json
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\bin\Debug\netcoreapp3.1\MetersToKilometers.dll
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\bin\Debug\netcoreapp3.1\MetersToKilometers.pdb
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\obj\Debug\netcoreapp3.1\MetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\obj\Debug\netcoreapp3.1\MetersToKilometers.AssemblyInfo.cs
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\obj\Debug\netcoreapp3.1\MetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\obj\Debug\netcoreapp3.1\MetersToKilometers.dll
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\obj\Debug\netcoreapp3.1\MetersToKilometers.pdb
+C:\Users\esi\source\repos\LabDataTypesAndVariables\LabDataTypesAndVariables\obj\Debug\netcoreapp3.1\MetersToKilometers.genruntimeconfig.cache

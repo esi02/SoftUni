@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\net5.0\RandomizeWords.exe
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\net5.0\RandomizeWords.deps.json
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\net5.0\RandomizeWords.runtimeconfig.json
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\net5.0\RandomizeWords.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\net5.0\RandomizeWords.dll
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\net5.0\ref\RandomizeWords.dll
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\net5.0\RandomizeWords.pdb
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\net5.0\RandomizeWords.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\net5.0\RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\net5.0\RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\net5.0\RandomizeWords.AssemblyInfo.cs
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\net5.0\RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\net5.0\RandomizeWords.dll
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\net5.0\ref\RandomizeWords.dll
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\net5.0\RandomizeWords.pdb
+C:\Users\esi\source\repos\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\net5.0\RandomizeWords.genruntimeconfig.cache

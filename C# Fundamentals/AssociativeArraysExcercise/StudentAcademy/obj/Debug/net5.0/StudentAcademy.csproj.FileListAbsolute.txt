@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.exe
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.deps.json
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.runtimeconfig.json
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.runtimeconfig.dev.json
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.dll
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\bin\Debug\net5.0\ref\StudentAcademy.dll
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.pdb
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.AssemblyInfo.cs
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.dll
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\obj\Debug\net5.0\ref\StudentAcademy.dll
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.pdb
+C:\Users\esi\source\repos\AssociativeArraysExcercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.genruntimeconfig.cache

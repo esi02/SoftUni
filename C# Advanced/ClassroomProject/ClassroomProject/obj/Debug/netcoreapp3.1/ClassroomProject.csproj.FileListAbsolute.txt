@@ -1,0 +1,14 @@
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\esi\source\repos\ClassroomProject\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache

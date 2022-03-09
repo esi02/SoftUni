@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.exe
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.deps.json
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.runtimeconfig.json
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.runtimeconfig.dev.json
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.dll
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.pdb
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.csprojAssemblyReference.cache
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.AssemblyInfo.cs
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.dll
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.pdb
+C:\Users\esi\source\repos\LabIntroandBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.genruntimeconfig.cache

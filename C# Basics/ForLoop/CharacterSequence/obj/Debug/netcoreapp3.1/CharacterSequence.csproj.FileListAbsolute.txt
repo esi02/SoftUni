@@ -1,0 +1,12 @@
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.exe
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.deps.json
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.json
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.dev.json
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfo.cs
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Users\esi\source\repos\ForLoop\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.genruntimeconfig.cache

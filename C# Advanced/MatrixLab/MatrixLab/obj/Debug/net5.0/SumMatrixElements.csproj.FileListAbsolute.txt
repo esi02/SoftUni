@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\bin\Debug\net5.0\SumMatrixElements.exe
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\bin\Debug\net5.0\SumMatrixElements.deps.json
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\bin\Debug\net5.0\SumMatrixElements.runtimeconfig.json
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\bin\Debug\net5.0\SumMatrixElements.runtimeconfig.dev.json
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\bin\Debug\net5.0\SumMatrixElements.dll
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\bin\Debug\net5.0\ref\SumMatrixElements.dll
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\bin\Debug\net5.0\SumMatrixElements.pdb
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\obj\Debug\net5.0\SumMatrixElements.csproj.AssemblyReference.cache
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\obj\Debug\net5.0\SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\obj\Debug\net5.0\SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\obj\Debug\net5.0\SumMatrixElements.AssemblyInfo.cs
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\obj\Debug\net5.0\SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\obj\Debug\net5.0\SumMatrixElements.dll
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\obj\Debug\net5.0\ref\SumMatrixElements.dll
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\obj\Debug\net5.0\SumMatrixElements.pdb
+C:\Users\esi\source\repos\MatrixLab\MatrixLab\obj\Debug\net5.0\SumMatrixElements.genruntimeconfig.cache

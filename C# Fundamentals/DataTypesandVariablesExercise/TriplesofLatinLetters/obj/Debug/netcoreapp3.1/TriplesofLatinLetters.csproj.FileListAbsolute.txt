@@ -1,0 +1,13 @@
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp3.1\TriplesofLatinLetters.exe
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp3.1\TriplesofLatinLetters.deps.json
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp3.1\TriplesofLatinLetters.runtimeconfig.json
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp3.1\TriplesofLatinLetters.runtimeconfig.dev.json
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp3.1\TriplesofLatinLetters.dll
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp3.1\TriplesofLatinLetters.pdb
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp3.1\TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp3.1\TriplesofLatinLetters.AssemblyInfo.cs
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp3.1\TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp3.1\TriplesofLatinLetters.dll
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp3.1\TriplesofLatinLetters.pdb
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp3.1\TriplesofLatinLetters.genruntimeconfig.cache
+C:\Users\esi\source\repos\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp3.1\TriplesofLatinLetters.csproj.AssemblyReference.cache
