@@ -1,2 +1,2 @@
-# SoftUniCSharp
+# SoftUni
 SoftUni excercises and homework
