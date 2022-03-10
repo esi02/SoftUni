@@ -5,6 +5,7 @@
 
 # Custom
 .zip
+bin/
 
 # User-specific files
 *.rsuser
