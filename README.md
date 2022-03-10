@@ -1,2 +1,2 @@
 # SoftUni
-SoftUni excercises and homework
+My SoftUni labs, excercises, homework and exams
