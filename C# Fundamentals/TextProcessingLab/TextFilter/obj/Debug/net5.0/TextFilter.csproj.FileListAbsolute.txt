@@ -1,0 +1,15 @@
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.exe
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.deps.json
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.runtimeconfig.json
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.runtimeconfig.dev.json
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.dll
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\bin\Debug\net5.0\ref\TextFilter.dll
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.pdb
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.AssemblyInfo.cs
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.dll
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\obj\Debug\net5.0\ref\TextFilter.dll
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.pdb
+C:\Users\esi\source\repos\TextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.exe
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.deps.json
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.runtimeconfig.json
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.runtimeconfig.dev.json
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.dll
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\bin\Debug\net5.0\ref\RepeatStrings.dll
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.pdb
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.AssemblyInfo.cs
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.dll
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\obj\Debug\net5.0\ref\RepeatStrings.dll
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.pdb
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.genruntimeconfig.cache
+C:\Users\esi\source\repos\TextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.csproj.AssemblyReference.cache
